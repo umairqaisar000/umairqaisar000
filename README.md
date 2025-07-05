@@ -10,7 +10,11 @@ Welcome to my GitHub profile! Here's a glimpse into what you can find here:
 
 💬 Ask me about web development, JavaScript, React, or any other tech-related topics you're interested in!
 
-📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-umair-qaisar/) or reach out to me via email at umairqaisar000@gmail.com.
+
+📫 **Reach me at**:  
+🌐 [umairqaisar.com](https://www.umairqaisar.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umair-qaisar/)  
+📧 umairqaisar000@gmail.com
 
 😄 Pronouns: He/Him
 
