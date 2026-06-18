@@ -19,7 +19,7 @@ lead_software_engineer · QLU.ai · Islamabad, PK
 
 ## 📊 by the numbers
 
-| 15+ engineers led | 6M+ rows migrated | 145K+ platform creators |
+| 15+ engineers led | 6M+ rows migrated | 300K+ platform creators |
 |:---:|:---:|:---:|
 | frontend + backend | Excel → Azure Cosmos DB | art portfolio · foriio.com |
 
