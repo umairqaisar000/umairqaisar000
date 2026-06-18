@@ -5,7 +5,7 @@
 lead_software_engineer · QLU.ai · Islamabad, PK
 ```
 
-> I build things that **scale** — real-time social platforms, AI-powered desktop apps, and distributed cloud systems.  
+> I build things that **scale** - real-time social platforms, AI-powered desktop apps, and distributed cloud systems.  
 > Lead engineer at **QLU.ai**, with a track record of shipping products that hold up under real load.
 
 ```
