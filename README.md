@@ -1,75 +1,73 @@
-Hi there! 👋
 
-Welcome to my GitHub profile! Here's a glimpse into what you can find here:
+# Muhammad Umair Qaisar
 
-🔭 I’m currently working on honing my skills as a Full Stack Developer and exploring new technologies.
+```
+lead_software_engineer · QLU.ai · Islamabad, PK
+```
 
-🌱 I’m currently learning advanced **ReactJs, NextJs** concepts and diving deeper into backend development with **Node.js, Rails, and Express**.
+> I build things that **scale** — real-time social platforms, AI-powered desktop apps, and distributed cloud systems.  
+> Lead engineer at **QLU.ai**, with a track record of shipping products that hold up under real load.
 
-👯 I’m looking to collaborate on open-source projects and contribute to meaningful initiatives.
+```
+// I obsess over scale & performance — how systems behave under load,
+// where bottlenecks hide, and how to design so growth never breaks things.
+```
 
-💬 Ask me about web development, JavaScript, React, or any other tech-related topics you're interested in!
+![NUST](https://img.shields.io/badge/🎓_NUST-CGPA_3.67-0C447C?style=flat-square) ![Experience](https://img.shields.io/badge/⚡_3%2B_years-experience-085041?style=flat-square) ![Scale](https://img.shields.io/badge/📡_10k%2B-concurrent_users-3C3489?style=flat-square) ![AI](https://img.shields.io/badge/🤖_AI-multi--agent_systems-633806?style=flat-square)
 
+---
 
-📫 **Reach me at**:  
-🌐 [umairqaisar.com](https://www.umairqaisar.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-umair-qaisar/)  
-📧 umairqaisar000@gmail.com
+## 📊 by the numbers
 
-😄 Pronouns: He/Him
+| 15+ engineers led | 6M+ rows migrated | 145K+ platform creators |
+|:---:|:---:|:---:|
+| frontend + backend | Excel → Azure Cosmos DB | art portfolio · foriio.com |
 
-⚡ Fun fact: Besides coding, I enjoy playing video games and exploring new cuisines!
+---
 
-Technologies and Skills I work with:
-<p>
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Heroku" width="40" height="40"/>
-  <a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/></a>
+## 🚀 shipped projects
 
-  <!-- Back-end -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+| Project | Description | Stack |
+|---|---|---|
+| 👥 **Social Platform** | Real-time social networking app with WebRTC media server, audio calling, and push notifications — 10k+ concurrent users | Node.js · WebRTC · Flutter · AWS |
+| 🤖 **AI Coworking** | Virtual office with real-time audio/video rooms and AI agents for task coordination and contextual help | Electron.js · Node.js · WebRTC · multi-agent AI |
+| 🌐 **Browser AI Agent** | Automates user actions on live websites via programmatic browser sessions over secure reverse tunnels | Node.js · browser automation · reverse tunneling |
+| 📈 **Replay** | Productivity platform that tracks tool usage across the workday and generates focus recommendations | Electron.js · AI analytics · behavioral data pipeline |
+| 🖥️ **GPU Cloud Desktop** | Desktop app for GPU service provisioning with Docker containers bridging web and native layers | MERN · Electron.js · Docker · GCP |
+| 🚗 **Car Auction Platform** | Migrated 6M+ rows from daily Excel sheets to Azure Cosmos DB using automated Azure Pipelines | React · Node.js · Azure Cosmos DB |
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+---
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+## 🛠️ tech stack
 
-  <!-- Other Tools -->
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40"/>
-</p>
+**Frontend**  
+`React` `Next.js` `Flutter` `TypeScript` `Tailwind` `Redux` `WebRTC`
 
+**Backend**  
+`Node.js` `Express` `NestJS` `Rails` `Socket.io` `GraphQL` `Electron.js`
 
+**AI & ML**  
+`Multi-agent AI` `TensorFlow` `Python` `Flask`
 
-Feel free to explore my repositories and projects to get a better idea of my work as a Full Stack Developer. Don't hesitate to reach out if you have any questions or if there's anything I can assist you with!
+**Infrastructure**  
+`AWS` `GCP` `Azure` `Docker` `Firebase` `CI/CD`
+
+**Databases**  
+`MongoDB` `PostgreSQL` `Redis` `Cosmos DB`
+
+---
+
+## 🏆 highlights
+
+- 🏆 Runner-up · National Digital Cyber Hackathon 2021
+- 📄 IEEE Publication · Best Session Research Paper Award (ICoD T² 2022)
+- 🎓 Merit Award · Best Final Year Project at NUST
+- 📦 Published Flutter package · [q_theme_kit](https://pub.dev/packages/q_theme_kit)
+
+---
+
+## 📬 reach me
+
+[![Website](https://img.shields.io/badge/🌐_umairqaisar.com-visit-0C447C?style=flat-square)](https://www.umairqaisar.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-connect-185FA5?style=flat-square)](https://www.linkedin.com/in/muhammad-umair-qaisar/)
+[![Email](https://img.shields.io/badge/📧_email-umairqaisar000@gmail.com-0F6E56?style=flat-square)](mailto:umairqaisar000@gmail.com)
