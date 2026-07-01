@@ -13,7 +13,7 @@ lead_software_engineer · QLU.ai · Islamabad, PK
 // where bottlenecks hide, and how to design so growth never breaks things.
 ```
 
-![NUST](https://img.shields.io/badge/🎓_NUST-CGPA_3.67-0C447C?style=flat-square) ![Experience](https://img.shields.io/badge/⚡_3%2B_years-experience-085041?style=flat-square) ![Scale](https://img.shields.io/badge/📡_10k%2B-concurrent_users-3C3489?style=flat-square) ![AI](https://img.shields.io/badge/🤖_AI-multi--agent_systems-633806?style=flat-square)
+![NUST](https://img.shields.io/badge/🎓_NUST-CGPA_3.67-0C447C?style=flat-square) ![Experience](https://img.shields.io/badge/⚡_4%2B_years-experience-085041?style=flat-square) ![Scale](https://img.shields.io/badge/📡_10k%2B-concurrent_users-3C3489?style=flat-square) ![AI](https://img.shields.io/badge/🤖_AI-multi--agent_systems-633806?style=flat-square)
 
 ---
 
