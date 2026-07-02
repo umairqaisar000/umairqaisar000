@@ -2,7 +2,7 @@
 # Muhammad Umair Qaisar
 
 ```
-lead_software_engineer · QLU.ai · Islamabad, PK
+Software Engineer
 ```
 
 > I build things that **scale** - real-time social platforms, AI-powered desktop apps, and distributed cloud systems.  
