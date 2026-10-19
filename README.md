@@ -6,7 +6,7 @@ Software Engineer
 ```
 
 > I build things that **scale** - real-time social platforms, AI-powered desktop apps, and distributed cloud systems.  
-> Lead engineer at **QLU.ai**, with a track record of shipping products that hold up under real load.
+> Product Engineer at **Sahl.ai**, with a track record of shipping products that hold up under real load.
 
 ```
 // I obsess over scale & performance — how systems behave under load,
